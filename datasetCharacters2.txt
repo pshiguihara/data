@@ -1,0 +1,449 @@
+"Naïve Bayes switching linear dynamical system: A model for dynamic system modelling, classification, and information fusion"
+Learning dynamic dependency network structure with time lag
+A proactive approach based on online reliability prediction for adaptation of service-oriented systems
+Assessing trends and seasonal changes in elephant poaching risk at the small area level using spatio-temporal Bayesian modeling
+Using dynamic Bayesian networks as simulation metamodels based on bootstrapping
+Using temporal Bayesian networks to model user profile evolution
+The design of a cloud-based tracker platform based on system-of-systems service architecture
+Learning off-line vs. on-line models of interactive multimodal behaviors with recurrent neural networks
+Engagement Evaluation for Autism Intervention by Robots Based on Dynamic Bayesian Network and Expert Elicitation
+Context-based behaviour modelling and classification of marine vessels in an abalone poaching situation
+A Two-Dimension Dynamic Bayesian Network for Large-Scale Degradation Modeling with an Application to a Bridges Network
+A new efficient feature-combination-based method for dynamic texture modeling and classification using semi-random starting parameter dynamic Bayesian networks
+Modeling the Convergence of Collaborative Systems of Systems: A Quantitative Case Study
+Who you are is how you travel: A framework for transportation mode detection using individual and environmental characteristics
+Abstracting the dynamics of biological pathways using information theory: A case study of apoptosis pathway
+Dynamic Bayesian network for semantic place classification in mobile robotics
+Recurrent neural network system using probability graph model optimization
+Online reliability prediction via motifs-based dynamic Bayesian networks for service-oriented systems
+An Adaptive Bayesian System for Context-Aware Data Fusion in Smart Environments
+Towards smart-data: Improving predictive accuracy in long-term football team performance
+Probabilistic multi-person localisation and tracking in image sequences
+Reasoning With Causal Cycles
+A Wearable Virtual Usher for Vision-Based Cognitive Indoor Navigation
+Integration of Pathway Knowledge and Dynamic Bayesian Networks for the Prediction of Oral Cancer Recurrence
+Active inference for dynamic Bayesian networks with an application to tissue engineering
+Dynamic Bayesian networks for formal verification of structured stochastic processes
+Customer behavior classification using surveillance camera for marketing
+Modeling users’ search sessions for high utility query recommendation
+Saliency detection via Boolean and foreground in a dynamic Bayesian framework
+Human activity recognition in smart homes based on a difference of convex programming problem
+Sequential data feature selection for human motion recognition via Markov blanket
+An application of dynamic Bayesian networks to condition monitoring and fault prediction in a sensored system: A case study
+Degradation model constructed with the aid of dynamic Bayesian networks
+Motion retrieval based on Dynamic Bayesian Network and Canonical Time Warping
+"Smart motion reconstruction system for golf swing: a DBN model based transportable, non-intrusive and inexpensive golf swing capture and reconstruction system"
+Sensor network provenance compression using dynamic Bayesian networks
+Hybrid time Bayesian networks
+Bayesian estimation of remaining useful life for wind turbine blades
+Episodic non-Markov localization
+Efficient solutions of interactive dynamic influence diagrams using model identification
+Temporal-Correlation-Aware Dynamic Self-Management of Wireless Sensor Networks
+Synchronous Multi-Stream Hidden Markov Model for offline Arabic handwriting recognition without explicit segmentation
+Systemic banking crisis early warning systems using dynamic Bayesian networks
+Online visual analytics of text streams
+Prediction intervals for industrial data with incomplete input using kernel-based dynamic Bayesian networks
+A probabilistic model of pedestrian crossing behavior at signalized intersections for connected vehicles
+Combining heuristic search and latent variable sampling to infer dynamic gene regulatory networks
+Continuous phone recognition in the Sigma cognitive architecture
+Early detection method for emerging topics based on dynamic bayesian networks in micro-blogging networks
+Prediction of lung cancer incidence on the low-dose computed tomography arm of the National Lung Screening Trial: A dynamic Bayesian network
+Learning continuous time Bayesian networks in non-stationary domains
+Modelling spatial and temporal changes with GIS and Spatial and Dynamic Bayesian Networks
+Supervised linear dynamic system model for quality related fault detection in dynamic processes
+Probabilistic social behavior analysis by exploring body motion-based patterns
+Faster and more accurate graphical model identification of tandem mass spectra using trellises
+Understanding disease processes by partitioned dynamic Bayesian networks
+Hierarchical Spatio-Temporal Probabilistic Graphical Model with Multiple Feature Fusion for Binary Facial Attribute Classification in Real-World Face Videos
+Self-regularized causal structure discovery for trajectory-based networks
+DBN-extended: A dynamic Bayesian network model extended with temporal abstractions for coronary heart disease prognosis
+Arabic handwritten word recognition based on dynamic Bayesian network
+Graphical models for social behavior modeling in face-to face interaction
+Exploiting causality for selective belief filtering in dynamic Bayesian networks
+A Modeling Framework for Troubleshooting Automotive Systems
+Exploiting local and repeated structure in Dynamic Bayesian Networks
+Multi-modal human aggression detection
+Articulatory feature-based pronunciation modeling
+A non-homogeneous dynamic Bayesian network with a hidden Markov model dependency structure among the temporal data points
+Location prediction: A temporal-spatial Bayesian model
+How to interpret the results of medical time series data analysis: Classical statistical approaches versus dynamic Bayesian network modeling
+Robust route inference and representation for uncertain sensor data
+Network information security situation assessment based on Bayesian network
+Online public opinion risk warning based on bayesian network modeling
+High-order dynamic Bayesian Network learning with hidden common causes for causal gene regulatory network
+Human gesture recognition using a simplified dynamic Bayesian network
+Combining dynamic head pose-gaze mapping with the robot conversational state for attention recognition in human-robot interactions
+Production and inventory control of auto parts based on predicted probabilistic distribution of inventory
+Spatio-temporal Bayesian network models with latent variables for revealing trophic dynamics and functional networks in fisheries ecology
+Classification and clustering with continuous time Bayesian network models
+A Dynamic Bayesian Network model for long-term simulation of clinical complications in type 1 diabetes
+A probabilistic graphical model for describing the grape berry maturity
+A Dynamic Decision Approach for Risk Analysis in Complex Projects
+Switching LDS-based approach for process fault detection and classification
+Modeling aircrew information management for estimation of situational awareness using dynamic Bayesian networks
+PwOmics: An R package for pathway-based integration of time-series omics data using public database knowledge
+Probabilistic inference techniques for scalable multiagent decision making
+A unified model for context-based behavioural modelling and classification
+A dynamic Bayesian network model for real-time crash prediction using traffic speed conditions data
+Combinatorial Resampling Particle Filter: An Effective and Efficient Method for Articulated Object Tracking
+A novel procedure for statistical inference and verification of gene regulatory subnetwork
+Inferring dynamic gene regulatory networks in cardiac differentiation through the integration of multi-dimensional data
+A probabilistic approach to online eye gaze tracking without explicit personal calibration
+A multiscale approach for modeling atherosclerosis progression
+Learning driver behavior models from traffic observations for decision making and planning
+Structural prediction of dynamic Bayesian network with partial prior information
+A new inference of dynamic bayesian networks: Forwards-backwards algorithm based on sliding window
+A Lane Assessment Method Using Visual Information Based on a Dynamic Bayesian Network
+Maritime piracy situation modelling with dynamic Bayesian networks
+Structural prediction of dynamic Bayesian network with partial prior information
+Measuring the intensity of spontaneous facial action units with dynamic Bayesian network
+Learning failure-free PRISM programs
+An intelligent fault diagnosis system for process plant using a functional HAZOP and DBN integrated methodology
+Probabilistic prognosis with dynamic bayesian networks
+Design freeze sequencing using Bayesian network framework
+Real-time reliability evaluation methodology based on dynamic Bayesian networks: A case study of a subsea pipe ram BOP system
+Trajectory-based human action segmentation
+"Dynamic bayesian networks for fault detection, identification, and recovery in autonomous spacecraft"
+Design and implementation of advanced Bayesian networks with comparative probability
+Gene network inference using continuous time Bayesian networks: A comparative study and application to Th17 cell differentiation
+Fault detection and diagnosis for missing data systems with a three time-slice dynamic Bayesian network approach
+Systematic identification of transcriptional and post-transcriptional regulations in human respiratory epithelial cells during influenza A virus infection
+A Dynamic-Bayesian Network framework for modeling and evaluating learning from observation
+Dynamic probabilistic threshold networks to infer signaling pathways from time-course perturbation data
+Context augmented Dynamic Bayesian Networks for event recognition
+A review on the computational approaches for gene regulatory network construction
+Model identification of interactive dynamic influence diagrams
+A dynamic bayesian network-based model for inferring gene regulatory networks from gene expression data
+An intelligent situation awareness support system for safety-critical environments
+A new dynamic Bayesian network approach for determining effective connectivity from fMRI data
+Replacement policies for a complex system with unobservable components using dynamic Bayesian networks
+Recognizing multi-modal sensor signals using evolutionary learning of dynamic Bayesian networks
+A threat assessment method based on hierarchies and modules
+Motion retrieval based on Switching Kalman Filters Model
+Gene regulatory network inference and validation using relative change ratio analysis and time-delayed dynamic Bayesian network
+Fusion of parametric and non-parametric approaches to noise-robust ASR
+Learning continuous time Bayesian network classifiers
+Approximate inference for dynamic Bayesian networks: Sliding window approach
+Planning of proactive behaviors for human-robot cooperative tasks under uncertainty
+Dynamic Bayesian Networks to predict sequences of organ failures in patients admitted to ICU
+A spatio-temporal probabilistic model of hazard- and crowd dynamics for evacuation planning in disasters
+A study on music genre recognition and classification techniques
+A supervised learning framework for modeling director agent strategies in educational interactive narrative
+Temporal abstraction and temporal Bayesian networks in clinical domains: A survey
+Ranking Wikipedia article's data quality by learning dimension distributions
+Efficiency classification by hybrid Bayesian networks - The dynamic multidimensional models
+A PGM-based system for arabic handwritten word recognition
+Speech driven photo realistic facial animation based on an articulatory DBN model and AAM features
+A hybrid Bayesian Network approach to detect driver cognitive distraction
+A hierarchical probabilistic framework for recognizing learners' interaction experience trends and emotions
+IFPDM: A framework to integrate information fusion and probabilistic decision making
+A hybrid bayesian framework for map matching: Formulation using switching kalman filter
+A proactive complex event processing method for large-scale transportation internet of things
+Optimistic programming of touch interaction
+What/where to look next? Modeling top-down visual attention in complex interactive environments
+Learning Bayesian networks for clinical time series analysis
+Dynamic Bayesian network method for causal analysis between enterprise operation indexes
+Predictive analytics by using bayesian model averaging for large-scale internet of things
+GPU code generation for ODE-based applications with phased shared-data access patterns
+Project dynamics and emergent complexity
+Performance evaluation of subsea BOP control systems using dynamic Bayesian networks with imperfect repair and preventive maintenance
+Describing disease processes using a probabilistic logic of qualitative time
+Systematically discovering dependence structure of global stock markets using dynamic Bayesian network
+Learning temporal nodes Bayesian networks
+Video content categorization using the double decomposition
+Accurate estimation of human body orientation from RGB-D sensors
+Modeling temporal interactions with interval temporal bayesian networks for complex activity recognition
+Holographic memory-based Bayesian optimization algorithm (HM-BOA) in dynamic environments
+Dynamic Bayesian networks based performance evaluation of subsea blowout preventers in presence of imperfect repair
+Classifying the socio-situational settings of transcripts of spoken discourses
+A dynamic evidential fusion network for decision making in multi-robot system
+A New Decision Support Model Based on Impact Factor Analysis for Optimized Scheduling of Tomato Harvesting
+Evolutionary optimization in dynamic environments: Bringing the strengths of dynamic bayesian networks into bayesian optimization algorithm
+Dynamic bayesian network application in intelligent mining of financial data
+Measuring prevalence of other-oriented transactive contributions using an automated measure of speech style accommodation
+Language-motivated approaches to action recognition
+Simultaneous facial feature tracking and facial expression recognition
+A sequential topic model for mining recurrent activities from long term video logs
+Regularization of non-homogeneous dynamic Bayesian networks with global information-coupling based on hierarchical Bayesian models
+Discovering human immunodeficiency virus mutational pathways using temporal Bayesian networks
+Confidence estimation of feedback information for logicdiagnosis
+Non-homogeneous dynamic Bayesian networks with Bayesian regularization for inferring gene regulatory networks with gradually time-varying structure
+A dynamic Bayesian network for estimating the risk of falls from real gait data
+Automated Bayesian quality control of streaming rain gauge data
+Bayesian networks for mathematical models: Techniques for automatic construction and efficient inference
+Keyword spotting exploiting Long Short-Term Memory
+Dynamic Bayesian Network for Probabilistic Modeling of Tunnel Excavation Processes
+Modelling and optimizing mathematics learning in children
+Context-aware driver behavior detection system in intelligent transportation systems
+Prediction of coronary atherosclerosis progression using dynamic Bayesian networks
+GPU Code Generation for ODE-Based Applications with Phased Shared-Data Access Patterns
+An intent recognition strategy for transfemoral amputee ambulation across different locomotion modes
+A comparative study on automatic audio-visual fusion for aggression detection using meta-information
+Audio-visual Tibetan speech recognition based on a Deep Dynamic Bayesian Network for natural human robot interaction
+Predicting maturity stage using dynamic Bayesian network based on natural conditions
+Computational gene network analysis reveals TNF-induced angiogenesis
+Reduced complexity turbo equalization using a dynamic Bayesian network
+Mapping dynamic bayesian networks to _-shapes: Application to human faces identification across ages
+Model space noise robust speech recognition superimposed with noise variables
+The modeling on sports videos based on bayesian network and feature maps
+Hidden conditional random field-based soccer video events detection
+Directed causality of the human electrocorticogram during dexterous movement.
+Bayesian Inference of Signaling Network Topology in a Cancer Cell Line
+High-resolution genetic mapping with pooled sequencing.
+Multiple models of Bayesian networks applied to offline recognition of Arabic handwritten city names
+HMM based soccer video event detection using enhanced mid-level semantic
+Research on task decomposition and state abstraction in reinforcement learning
+Dynamic Bayesian modelling of non-stationary stochastic systems using constrained least square estimation and gradient descent optimisation
+Semantic management of multiple contexts in a pervasive computing framework
+Human action segmentation and recognition
+Video behaviour mining using a dynamic topic model
+A multidisciplinary artificial intelligence model of an affective robot
+Learning the dynamics of arterial traffic from probe data using a dynamic bayesian network
+Gene regulatory network modeling via global optimization of high-order dynamic Bayesian network
+Human action recognition using dynamic bayesian network
+A dynamic Bayesian network based framework to evaluate cascading effects in a power grid
+Hand gesture recognition based on free-form contours and probabilistic inference
+Approximate probabilistic analysis of biopathway dynamics
+DBN-based structural learning and optimisation for automated handwritten character recognition
+Context-prediction performance by a dynamic Bayesian network: Emphasis on location prediction in ubiquitous decision support environment
+Vehicle detection in aerial surveillance using dynamic bayesian networks
+Path modeling and retrieval in distributed video surveillance databases
+CNC machine tools wear diagnostic and prognostic by using dynamic Bayesian networks
+Prediction algorithm for state prediction model
+Properties of Bayesian student model for INQPRO
+Using articulatory likelihoods in the recognition of dysarthric speech
+Connectivity analysis as a novel approach to motor decoding for prosthesis control
+Dynamic bayesian networks for vehicle classification in video
+Resource-optimized quality-assured ambiguous context mediation framework in pervasive environments
+Multi-Scale Model Of Dam Safety Condition Monitoring Based On Dynamic Bayesian Networks
+Multimodal Speaker diarization
+State Space Model with hidden variables for reconstruction of gene regulatory networks
+A learning method for dynamic Bayesian network structures using a multi-objective particle swarm optimizer
+Premature Ventricular beat classification using a dynamic Bayesian Network.
+Human thermoregulatory system state estimation using non-invasive physiological sensors.
+Discovering excitatory relationships using dynamic Bayesian networks
+Medicine expert system dynamic Bayesian Network and ontology based
+On line isolated characters recognition using Dynamic Bayesian Networks
+Large-scale dynamic gene regulatory network inference combining differential equation models with local dynamic Bayesian network analysis
+Globalmit: Learning globally optimal dynamic bayesian network with the mutual information test criterion
+Multiagent bayesian forecasting of structural time-invariant dynamic systems with graphical models
+Analyzing neural interaction characteristics in a monkey's motor cortex during reach-to-grasp tasks
+Network availability prediction with hidden context
+Expert knowledge integration to model complex food processes. Application on the camembert cheese ripening process
+NETGEM: Network Embedded Temporal GEnerative Model for gene expression data
+Tandem decoding of children's speech for keyword detection in a child-robot interaction scenario
+A new method for shot identification in basketball video
+Spatiotemporal models for data-anomaly detection in dynamic environmental monitoring campaigns
+Inferring cell cycle feedback regulation from gene expression data
+Performance of hidden Markov model and dynamic Bayesian network classifiers on handwritten Arabic word recognition
+A conditional random fields method for RNA sequence-structure relationship modeling and conformation sampling
+Temporal data mining approaches for sustainable chiller management in data centers
+Efficient data association in visual sensor networks with missing detection
+Non-homogeneous dynamic Bayesian networks for continuous data
+Modeling complex longitudinal consumer behavior with Dynamic Bayesian networks: An Acquisition Pattern Analysis application
+Learning sparse models for a dynamic Bayesian network classifier of protein secondary structure
+Probabilistic approximations of ODEs based bio-pathway dynamics
+Gait recognition based on improved dynamic Bayesian networks
+Time varying dynamic Bayesian network for nonstationary events modeling and online inference
+Predictive navigation by understanding human motion patterns
+An integrated safety prognosis model for complex system based on dynamic Bayesian network and ant colony algorithm
+Cyber insider threats situation awareness using game theory and information fusion-based user behavior predicting algorithm
+Efficient structure learning of Bayesian networks using constraints
+Improvements in the reconstruction of time-varying gene regulatory networks: Dynamic programming and regularization by information sharing among genes
+Learning the behavior model of a robot
+Comparison of fusion methods based on DST and DBN in human activity recognition
+Dynamic Bayesian networks in classification-and-ranking architecture of response generation
+Personal event management among multiple devices based on user intention recognition using dynamic Bayesian networks
+Detecting and discriminating behavioural anomalies
+Inferring nonstationary gene networks from longitudinal gene expression microarrays
+An emotional student model for game-play adaptation
+Multiperson visual focus of attention from head pose and meeting contextual cues
+Localization of semi-dynamic objects during SLAM
+A computational and experimental study of the regulatory mechanisms of the complement system
+Learning non-stationary dynamic bayesian networks
+Student modeling in orthopedic surgery training: Exploiting symbiosis between temporal Bayesian networks and fine-grained didactic analysis
+Analysis of neural interaction in motor cortex during reach-to-grasp task based on Dynamic Bayesian Networks.
+Dynamic analysis of multi-stage cyber attack based on abstract hidden Markov model
+Connectivity mapping of the human ECoG during a motor task with a time-varying dynamic Bayesian network.
+A comparative study of HMMS and DBNS applied to facial action units recognition
+Causal neuronal networks provide functional signatures of stimulus encoding.
+Inference of an in situ epidermal intracellular signaling cascade.
+Incremental sigmoid belief networks for grammar learning
+Modelling nonstationary gene regulatory processes
+MEG and fMRI fusion for non-linear estimation of neural and BOLD signal changes
+Building gene networks with time-delayed regulations
+Constructing non-stationary Dynamic Bayesian Networks with a flexible lag choosing mechanism
+Time lagged information theoretic approaches to the reverse engineering of gene regulatory networks
+Graphical models for integrating syllabic information
+Combining long short-term memory and dynamic bayesian networks for incremental emotion-sensitive artificial listening
+Bidirectional LSTM Networks for Context-Sensitive Keyword Detection in a Cognitive Virtual Agent Framework
+Real-time traffic signal learning control using BPNN based on predictions of the probabilistic distribution of standing vehicles
+Planning with noisy probabilistic relational rules
+Integration of multiple temporal qualitative probabilistic networks in time series environments
+ConaMSN: A context-aware messenger using dynamic Bayesian networks with wearable sensors
+Learning to detect incidents from noisily labeled data
+Discretization of time series data
+Probabilistic approaches to estimating the quality of information in military sensor networks
+A dynamic Bayesian network for identifying protein-binding footprints from single molecule-based sequencing data
+Efficient sensor selection for active information fusion
+A driver fatigue recognition model based on information fusion and dynamic Bayesian network
+Dynamic Bayesian networks and variable length genetic algorithm for designing cue-based model for dialogue act recognition
+Using hierarchical dynamic Bayesian networks to investigate dynamics of organ failure in patients in the Intensive Care Unit
+Towards modeling user behavior in interactions mediated through an automated bidirectional speech translation system
+TimeDelay-ARACNE: Reverse engineering of gene networks from time-course data by an information theoretic approach
+Mocapy++ - A toolkit for inference and learning in dynamic Bayesian networks
+Student mental state inference from unintentional body gestures using dynamic Bayesian networks
+Ambulatory hip angle estimation using gaussian particle filter
+A unified probabilistic framework for spontaneous facial action modeling and understanding
+Characterizing dynamic changes in the human blood transcriptional network
+Supporting pervasive computing applications with active context fusion and semantic context delivery
+Supporting reliability engineers in exploiting the power of Dynamic Bayesian Networks
+Hand gesture recognition based on dynamic Bayesian network framework
+A dynamic Bayesian network to represent discrete duration models
+Content and task-based view selection from multiple video streams
+A ubiquitous power management system to balance energy savings and response time based on device-level usage prediction
+Inferring effective connectivity in the brain from EEG time series using dynamic Bayesian networks.
+Environment recognition based on human actions using probability networks
+Modeling Spatial and Temporal Variation in Motion Data
+Production adjusting method based on the predicted distribution of production and inventory using a dynamic Bayesian network
+Traffic signal control based on a predicted traffic jam distribution
+Recognizing behavior in hand-eye coordination patterns
+Automatic inference of multicellular regulatory networks using informative priors
+From dynamic influence nets to dynamic Bayesian networks: A transformation algorithm
+Empirically building and evaluating a probabilistic model of user affect
+Multistream articulatory feature-based models for visual speech recognition
+Predicting intrusion goal using dynamic Bayesian network with transfer probability estimation
+Using probabilistic reasoning over time to self-recognize
+Granger causality vs. dynamic Bayesian network inference: A comparative study
+Reconstructing generalized logical networks of transcriptional regulation in mouse brain from temporal gene expression data
+Online learning algorithm of dynamic bayesian networks for nonstationary signal processing
+A dynamic Bayesian network for diagnosing ventilator-associated pneumonia in ICU patients
+Predicting project velocity in XP using a learning dynamic Bayesian network model
+Genetic-based approach for cue phrase selection in dialogue act recognition
+Group interaction analysis in dynamic context
+BNFinder: Exact and efficient method for learning Bayesian networks
+Stochastic model of production and inventory control using dynamic bayesian network
+Reconstructing functional neuronal circuits using dynamic Bayesian networks.
+Learning brain connectivity with the false-discovery-rate-controlled PC-algorithm.
+Quantitative inference by qualitative semantic knowledge mining with Bayesian model averaging
+Affective level video segmentation by utilizing the pleasure-arousal- dominance information
+Transmembrane topology and signal peptide prediction using dynamic Bayesian networks
+Adaptive neural queue management for TCP networks
+Hierarchical group process representation in multi-agent activity recognition
+Recognition of degraded characters using dynamic Bayesian networks
+Sketch recognition in interspersed drawings using time-based graphical models
+Modeling time-varying uncertain situations using Dynamic Influence Nets
+Dynamic Bayesian approach for detecting cheats in multi-player online games
+Dynamic Bayesian networks as prognostic models for clinical patient management
+What the draughtsman's hand tells the draughtsman's eye: A sensorimotor account of drawing
+Research on the self-defence electronic jamming decision-makingbased on the discrete dynamic Bayesian network This project was supported by the National Natural Science Fundation of China (10377014).
+Reasoning with recursive loops under the PLP framework
+Modeling peptide fragmentation with dynamic Bayesian networks for peptide identification
+Tracking the visual focus of attention for a varying number of wandering people
+Spatial interaction of crime incidents in Japan
+Incremental and adaptive abnormal behaviour detection
+Activity based surveillance video content modelling
+Nonlinear networked control systems with random nature using neural approach and dynamic bayesian networks
+Dynamic Bayesian network based prognosis in machining processes
+Probabilistic framework for brain connectivity from functional MR images
+Learning the structure of dynamic Bayesian networks from time series and steady state measurements
+Video behavior profiling for anomaly detection
+"Modeling, clustering, and segmenting video with mixtures of dynamic textures"
+Dynamic multiagent probabilistic inference
+Dynamic modeling of groundwater pollutants with bayesian networks
+Adaptive learning of dynamic Bayesian networks with changing structures by detecting geometric structures of time series
+Group interaction analysis in dynamic context
+A dynamic bibliometric model for identifying online communities
+Inference degradation of active information fusion within Bayesian network models
+Using causal knowledge to guide retrieval and adaptation in case-based reasoning about dynamic processes
+Human interaction representation and recognition through motion decomposition
+Hierarchical model-based activity recognition with automatic low-level state discovery
+Bayesian inference of genetic regulatory networks from time series microarray data using dynamic Bayesian networks
+A framework for group analysis of fMRI data using dynamic Bayesian networks.
+Facial action unit recognition by exploiting their dynamic and semantic relationships
+Factored interval particle filtering for gait analysis.
+Effective course-of-action determination to achieve desired effects
+Temporal Bayesian Network based contextual framework for structured information mining
+Articulatory feature recognition using dynamic Bayesian networks
+Convergence in Markovian models with implications for efficiency of inference
+Modeling Internet firm survival using Bayesian dynamic models with time-varying coefficients
+miniTUBA: Medical inference by network integration of temporal data using Bayesian analysis
+Switching auxiliary chains for speech recognition
+Uncovering gene regulatory networks from time-series microarray data with variational bayesian structural expectation maximization
+Value-directed human behavior analysis from video using partially observable Markov decision processes
+Realistic mouth-synching for speech-driven talking face using articulatory modelling
+Diagnosis using a first-order stochastic language that learns
+Comparison of two types of event Bayesian networks: A case study
+Dynamic conditional random fields: Factorized probabilistic models for labeling and segmenting sequence data
+"Reconstructing gene-regulatory networks from time series, knock-out data, and prior knowledge"
+Evolving dynamic Bayesian networks with Multi-objective genetic algorithms
+Dynamic Bayesian network inversion for robust speech recognition
+Automatic meeting segmentation using dynamic bayesian networks
+Predicting software defects in varying development lifecycles using Bayesian nets
+Modeling dynamic reliability using dynamic Bayesian networks
+Exploiting binary abstractions in deciphering gene interactions.
+Causal graph based decomposition of factored MDPs
+Computational inference of neural information flow networks
+Real-time video content analysis: QoS-aware application composition and parallel processing
+A stimulus-free graphical probabilistic switching model for sequential circuits using dynamic Bayesian networks
+Inferring gene regulatory networks from time series data using the minimum description length principle
+Semantic analysis of soccer video using dynamic bayesian network
+Applying dynamic Bayesian networks to perturbed gene expression data
+Active and dynamic information fusion for multisensor systems with dynamic Bayesian networks
+Relationships between probabilistic Boolean networks and dynamic Bayesian networks as models of gene regulatory networks
+Gene network inference from incomplete expression data: Transcriptional control of hematopoietic commitment
+Intelligent human-machine interaction based on Dynamic Bayesian Networks probabilistic intention recognition
+A probabilistic framework for modeling and real-time monitoring human fatigue
+A quantization method based on threshold optimization for microarray short time series
+Task oriented facial behavior recognition with selective sensing
+The emotional hearing aid: An assistive tool for children with Asperger syndrome
+Learning dynamic Bayesian network models via cross-validation
+Temporal Bayesian network of events for diagnosis and prediction in dynamic domains
+"""Shape activity"": A continous-state HMM for moving/deforming shapes with application to abnormal activity detection"
+Adaptive diagnosis in distributed systems
+Designing personalized aid-websites for high risk events prevention
+Relational dynamic bayesian networks
+Probabilistic graphical models for dynamic systems
+A spatio-temporal Bayesian network classifier for understanding visual field deterioration
+Active and dynamic information fusion for facial expression understanding from image sequences
+A Bayesian approach to reconstructing genetic regulatory networks with hidden factors
+Active affective state detection and user assistance with dynamic Bayesian networks
+A new dynamic Bayesian network (DBN) approach for identifying gene regulatory networks from time course microarray data
+Advances to Bayesian network inference for generating causal networks from observational biological data
+A Bayesian network approach to explaining time series with changing structure
+Temporal aggregation bias and inference of causal regulatory networks
+Robust action strategies to induce desired effects
+Integrated use of different content derivation techniques within a multimedia database management system
+On supervision and statistical learning for semantic multimedia analysis
+An extension of the differential approach for Bayesian network inference to dynamic Bayesian networks
+A hierarchical Bayesian network for event recognition of human actions and interactions
+Modeling T-cell activation using gene expression profiling and state-space models
+Predicting the intrusion intentions by observing system call sequences
+Dynamic bayesian network-based acoustic models incorporating speaking rate effects
+Student modelling based on belief networks
+Cerebral modeling and dynamic Bayesian networks
+Studying the Conditions for Learning Dynamic Bayesian Networks to Discover Genetic Regulatory Networks
+Sensitivity and specificity of inferring genetic regulatory interactions from microarray experiments with dynamic Bayesian networks
+Efficient solution algorithms for factored MDPs
+A two-layer temporal generative model of natural video exhibits complex-cell-like pooling of simple cell outputs
+Modeling drivers' speech under stress
+Object-based analysis and interpretation of human motion in sports video sequences by dynamic Bayesian networks
+Dynamic Bayesian networks for multi-band automatic speech recognition
+Inferring gene networks from time series microarray data using dynamic Bayesian networks.
+Buried Markov models: A graphical-modeling approach to automatic speech recognition
+From Greta's mind to her face: Modelling the dynamics of affective states in a conversational embodied agent
+Using Bayesian networks to manage uncertainty in student modeling
+Implementation of a multiagent systems for competitive environments on the WWW
+Dynamic Bayesian networks for audio-visual speech recognition
+Networks of probabilistic events in discrete time
+Policy recognition in the Abstract Hidden Markov Model
+Complex probabilistic modeling with recursive relational Bayesian networks
+Evolutionary learning of dynamic probabilistic models with large time lags
+Constant-space reasoning in dynamic Bayesian networks
+An introduction to hidden Markov models and Bayesian networks
+Tracking and surveillance in wide-area spatial environments using the abstract hidden Markov model
+Stochastic dynamic programming with factored representations
+Multimodal speaker detection using error feedback dynamic Bayesian networks
+Bayesian Models for Keyhole Plan Recognition in an Adventure Game
+Model-based average reward reinforcement learning
+Prediction with the dynamic Bayesian gamma mixture model
